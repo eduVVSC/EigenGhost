@@ -97,6 +97,8 @@ Please make sure to update tests as appropriate.
 
 [Eduardo Vasconcelos](https://github.com/eduVVSC) - Scrum master
 
+![image](ContributorsSummary.png)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
